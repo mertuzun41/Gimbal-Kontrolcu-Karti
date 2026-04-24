@@ -54,7 +54,7 @@ Bu kart, insansız hava araçlarındaki kamera stabilizasyonu için tasarlanmı�
 
 ## 📐 Şematik
 
-![Şematik](sematik.png)
+![Şematik](sematik.jpeg)
 
 ---
 
@@ -68,8 +68,8 @@ Bu kart, insansız hava araçlarındaki kamera stabilizasyonu için tasarlanmı�
     <td align="center"><b>3D Görünüm</b></td>
   </tr>
   <tr>
-    <td><img src="pcb_2d.png" width="400"/></td>
-    <td><img src="pcb_3d.png" width="400"/></td>
+    <td><img src="pcb_görsel_2d.jpg" width="400"/></td>
+    <td><img src="pcb_görsel_3d.jpg" width="400"/></td>
   </tr>
 </table>
 
@@ -83,8 +83,8 @@ Bu kart, insansız hava araçlarındaki kamera stabilizasyonu için tasarlanmı�
     <td align="center"><b>Kart - Arka</b></td>
   </tr>
   <tr>
-    <td><img src="kart1.png" width="400"/></td>
-    <td><img src="kart2.png" width="400"/></td>
+    <td><img src="pcb_görsel.jpg" width="400"/></td>
+    <td><img src="pcb_görsel2.jpg" width="400"/></td>
   </tr>
 </table>
 
