@@ -94,6 +94,6 @@ Bu kart, insansız hava araçlarındaki kamera stabilizasyonu için tasarlanmı�
 
 **Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/mert-uzun-b74459308)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="filter: invert(1)"/>](https://www.linkedin.com/in/mert-uzun-b74459308)
 
 </div>
