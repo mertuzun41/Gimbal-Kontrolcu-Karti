@@ -1,3 +1,5 @@
+**Türkçe** | [English](README.en.md)
+
 # STM32 Tabanlı Gimbal Kontrol Kartı
 
 İHA kamera stabilizasyonu için STM32F103RCT6, MPU6050 ve üç eksene ait sürücü katlarını tek PCB üzerinde birleştiren donanım projesi.
